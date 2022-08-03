@@ -15,12 +15,10 @@
 
 **Talking about Personal Stuffs!**
 
-- 🔭 I’m currently working on nothing.
-- 🤔 I’m looking for help with anything in which you have expertise.
-- 💬 Ask me about nothing.
+- 🔭 I’m currently improving my SQL and Python skills
+- 💬 Ask me about credit cards and treks
 - 📫 How to reach me: heyitsabhijeet@gmail.com
-- 😄 Pronouns: he/his/him
-- ⚡ Fun fact: I started coding out of boredom.
+
 
 </br>
 
