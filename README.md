@@ -11,7 +11,7 @@
 <!--- TODO Add followers when >50
 [![GitHub followers](https://img.shields.io/github/followers/indtheblacktiger.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/indtheblacktiger?tab=followers)
 -->
-  <img src='https://media.giphy.com/media/l2JhpjWPccQhsAMfu/giphy.gif' align='right'>
+
 
 **Talking about Personal Stuffs!**
 
