@@ -7,9 +7,9 @@
   <img align="left" alt="Abhijeet's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=indtheblacktiger.indtheblacktiger)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=heyitsabhijeet.heyitsabhijeet)
 <!--- TODO Add followers when >50
-[![GitHub followers](https://img.shields.io/github/followers/indtheblacktiger.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/indtheblacktiger?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/heyitsabhijeet.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/indtheblacktiger?tab=followers)
 -->
 
 
@@ -23,4 +23,4 @@
 </br>
 
 <br></br>
-![Abhijeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=indtheblacktiger&show_icons=true&hide_border=true)
+![Abhijeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=heyitsabhijeet&show_icons=true&hide_border=true)
